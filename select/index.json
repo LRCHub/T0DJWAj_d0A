@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "表参道26時",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-19T00:08:58.151624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "表参道26時",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/01_表参道26時_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "表参道26時",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_表参道26時_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "表参道26時",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_表参道26時_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "表参道26時",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_表参道26時_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "表参道26時",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_表参道26時_サカナクション.txt"
+    }
+  ]
+}
